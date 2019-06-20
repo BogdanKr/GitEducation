@@ -15,6 +15,8 @@ public class Main {
         for (int i = 0; i < 10; i++) {
             System.out.println("Privet"+1+2);
         }
+
+        System.out.println("new branch-4");
         int c = 4;
         System.out.println("Hi");
 
