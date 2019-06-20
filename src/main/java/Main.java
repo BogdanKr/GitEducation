@@ -1,9 +1,9 @@
 public class Main {
     public static void main(String[] args) {
-        int a = 0;
+        int  a = 0;
         int b = 1;
 
-        int s = a + b;
+        int s = a+b;
 
         System.out.println("Hello world");
         System.out.println("" +
@@ -11,6 +11,10 @@ public class Main {
 
 
         System.out.println(s+" привет");
+        System.out.println(s);
+        System.out.println("Hello world");
+        System.out.println("" +
+                "hello Bogdan");
 
         for (int i = 0; i < 10; i++) {
             System.out.println("Privet"+1+2);
@@ -21,6 +25,7 @@ public class Main {
         System.out.println("Hi");
 
         System.out.println("commit to branch again");
+        System.out.println("create commit to master");
 
     }
 }
