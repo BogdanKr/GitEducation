@@ -4,5 +4,7 @@ public class Main {
         int b = 1;
 
         int s = a+b;
+
+        System.out.println(s);
     }
 }
