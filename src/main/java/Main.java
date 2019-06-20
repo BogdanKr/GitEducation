@@ -16,4 +16,8 @@ public class Main {
     public int i =0;
     int b = 2;
 
+    public int first(){
+        return 1;
+    }
+
 }
