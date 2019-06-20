@@ -28,4 +28,12 @@ public class Main {
         System.out.println("create commit to master");
 
     }
+    public static String cont="zzz";
+    public int i =0;
+    int b = 2;
+
+    public int first(){
+        return 1;
+    }
+
 }
