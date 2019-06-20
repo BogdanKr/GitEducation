@@ -7,5 +7,9 @@ public class Main {
 
         System.out.println(s);
         System.out.println(s+" привет");
+
+        for (int i = 0; i < 10; i++) {
+            System.out.println("Privet"+1+2);
+        }
     }
 }
