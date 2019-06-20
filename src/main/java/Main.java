@@ -12,6 +12,7 @@ public class Main {
             System.out.println("Privet"+1+2);
         }
         int c = 4;
+        System.out.println("Hi");
 
     }
 }
