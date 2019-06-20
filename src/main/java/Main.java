@@ -11,5 +11,7 @@ public class Main {
         for (int i = 0; i < 10; i++) {
             System.out.println("Privet"+1+2);
         }
+        int c = 4;
+
     }
 }
