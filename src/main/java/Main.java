@@ -16,5 +16,7 @@ public class Main {
 
         System.out.println("commit to branch again");
 
+        System.out.println("add to github");
+
     }
 }
