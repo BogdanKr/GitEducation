@@ -12,4 +12,8 @@ public class Main {
 
 
     }
+    public static String cont="zzz";
+    public int i =0;
+    int b = 2;
+
 }
